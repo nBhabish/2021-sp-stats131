@@ -11,3 +11,4 @@ When you want to add changes, you do that in the branch!
 You work on the branch until you iron out all the bugs and merge those changes back to the master!
 
 
+.gitignore is a file that tells git don't worry about these files, I don't want them to be tracked
