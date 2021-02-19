@@ -12,3 +12,7 @@ You work on the branch until you iron out all the bugs and merge those changes b
 
 
 .gitignore is a file that tells git don't worry about these files, I don't want them to be tracked
+
+Head will let us know what commit we are working on and we can do back and forth with git checkout and commit name
+
+and to go back to main branch, you type in git checkout main
