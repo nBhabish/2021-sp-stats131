@@ -1,1 +1,13 @@
 This repo will go over some of the stuffs that I have learned in Python! Cheers!
+
+Master Branch- is supposedly production ready stuff. 
+
+Branch- people work on improving things on the branch. They commit those changes to the branch and they create a pull request - "Can we merge this modification in the master branch?". So, that's how they merge it back to the master.
+
+The idea of creating branches and working on them is the central idea of the GIT and the master branch is the one that if somebody says we need to turn it in something now. You can say take the current version from master, it doesn't have any errors, it's good to go!
+
+When you want to add changes, you do that in the branch! 
+
+You work on the branch until you iron out all the bugs and merge those changes back to the master!
+
+
