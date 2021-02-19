@@ -1,0 +1,1 @@
+This repo will go over some of the stuffs that I have learned in Python! Cheers!
