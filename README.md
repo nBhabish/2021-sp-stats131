@@ -3,3 +3,4 @@ Class repo for stats 131 notes
 
 ## Topics Covered:
 - Names, Values and Strings
+- Machine Learning Concepts
